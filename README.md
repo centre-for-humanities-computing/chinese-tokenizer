@@ -1,4 +1,4 @@
-# Tokenizer for Chinese texts #
+# A Rust-y tokenizer for Chinese texts #
 
 This is a short program for tokenizing Chinese text, using a Rust port of jieba.
 
