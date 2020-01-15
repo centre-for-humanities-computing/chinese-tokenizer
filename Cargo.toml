@@ -1,5 +1,5 @@
 [package]
-name = "chinese-tokenizer"
+name = "chinese"
 version = "0.1.0"
 authors = ["rdkm89 <rdkm@cc.au.dk>"]
 edition = "2020"
