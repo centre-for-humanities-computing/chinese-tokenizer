@@ -6,7 +6,7 @@ The default tokenizer is a maximum likelihood matching algorithm working from a 
 
 ## Getting started
 
-In order to run on your machine, you'll need to first install Rust and the Cargo package manager. This is done a number of different ways, depending on whether you use macOS, Linux, or Windows. Use Google to find out the easiest way to do this for your machine.
+In order to run on your machine, you'll need to first install Rust and the Cargo package manager. This is done a number of different ways, depending on whether you use macOS, Linux, or Windows. You can find more information on how to do this [here](https://www.rust-lang.org/tools/install) and [here](https://doc.rust-lang.org/cargo/getting-started/installation.html).
 
 Once that's completed, you'll need to copy your data into the empty 'data' folder. Note that the current structure of this program only allows for folder structures one level deep. In other words:
 
