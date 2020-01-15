@@ -39,13 +39,13 @@ Then run:
 
 Note that in both cases, we're using the --release flag. This prompts the compiler to perform optimisations which substantially improve performance of the tokenizer.
 
-## NB
+## NB!
 
 This was written quite quickly to solve a specific problem and is still essentially work-in-progress. It will work for any collection of Chinese texts, as long as the corpus structured in the format outlined above. However, I hope at some point to return to this and make it more flexible, as well as offering the user the chance to set certain flags. 
 
 
 ## Author
-Author:		[rdkm89](https://github.com/rdkm89)
+Author:		[rdkm89](https://github.com/rdkm89) <br>
 Date:		2020-01-13
 
 ## Built with
