@@ -2,7 +2,7 @@
 name = "chinese"
 version = "0.1.0"
 authors = ["rdkm89 <rdkm@cc.au.dk>"]
-edition = "2020"
+edition = "2018"
 
 [dependencies]
 jieba-rs = "0.4"
